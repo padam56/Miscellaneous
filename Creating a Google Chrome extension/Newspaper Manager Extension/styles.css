@@ -1,0 +1,20 @@
+body {
+  background-color:#fff !important;
+  color:#000 !important;
+}
+
+.news, .news-summary, .news-footer, .news__title, .news__cover, .news__inner, .news__summary, .news__footer, 
+.news-title, .news-inner, .page-header__middle, .list-item, .news-tags {
+  background-color:#fff !important;
+  color:#000 !important;
+}
+
+a {
+  background-color:#fff !important;
+  color:#000 !important;
+}
+
+a:hover {
+  text-decoration:underline; !important;
+}
+
